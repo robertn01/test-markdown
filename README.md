@@ -1,5 +1,5 @@
 # test-markdown
-testing markdown GitHub's markdown capabilities and how it looks through GitHub Pages
+testing GitHub's markdown capabilities and how it looks through GitHub Pages
 
 
 Below testing whether URLs can open up in a new web browser tab.
