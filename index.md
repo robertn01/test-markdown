@@ -28,6 +28,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Test URLs
+
+[Open up GitHub main page under a new tab](https://github.com){:target="_blank"}
+
+*click below*
+
+<a href="https://github.com" target="_blank">New Tab</a>
+
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robertn01/test-markdown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
